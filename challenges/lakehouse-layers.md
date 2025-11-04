@@ -1,5 +1,5 @@
 ## What is a Medallion Architecture?
-Please read: [medallion architecture]([What is a Medallion Architecture?](https://www.databricks.com/glossary/medallion-architecture)):
+More information about Medallion Architecture you can find [here.](https://www.databricks.com/glossary/medallion-architecture)
 ## Bronze Layer (Raw Data Management)
 Lakehouse Name: `bronzerawdata`
 
