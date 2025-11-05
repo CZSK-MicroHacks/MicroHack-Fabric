@@ -19,10 +19,11 @@ Focus on implementing **at least the first 6 challenges today** as a minimum o
 > [!TIP]
 > ***You can progress through Solution (step by step) at your own pace.***
 
+> [!CAUTION]
+> ### Pre-req. for challenges: Go through the step-by-step guide for [New Azure User Setup.](challenges/ch00/README.md)
+> 
 
 > [!IMPORTANT]
-> ### Pre-req.: New Azure User Setup
-> [Solution](challenges/ch00/README.md)
 > ### ch01: Prepare the infrastructure 
 > [Challenge](challenges/ch01/README.md) | [Solution](/solutions/ch01/ch01-solution.md)
 > ### ch02: Ingest *raw* data
