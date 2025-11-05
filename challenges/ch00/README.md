@@ -1,5 +1,8 @@
 # Ch00: New Azure User Setup
 
+> [!NOTE]
+> 
+> Back to [Readme](/README.md)
 
 ## Obtain your user credential from the organizers of this event.
 
