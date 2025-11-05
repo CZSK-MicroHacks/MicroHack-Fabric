@@ -13,7 +13,7 @@ MicroHack is designed to teach you how to integrate, transform, and manage data 
 
 ## Challenges
 
-Focus on implementing **at least the first 6 challenges today** as a minimum out of the 9 major challenges.
+Focus on implementing **at least the first 6 challenges today** as a minimum out of the 8 major challenges.
 
 
 > [!TIP]
