@@ -21,6 +21,10 @@ You will receive the credentials in the following format:
 
 2) Log in with your user and password.
 
+3) In this step, you will be prompted to add your own authenticator and enable multi-factor authentication.
+
+
+
 
 
 ## Success Criteria
