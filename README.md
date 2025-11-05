@@ -11,6 +11,11 @@ MicroHack is designed to teach you how to integrate, transform, and manage data 
 - Develop a complete data workflow: ingestion, preparation, serving, and operationalization.
 - Use Microsoft Fabric to analyze New York City taxi data to improve urban planning and transportation safety.
 
+## Pre-req. for challenges
+> [!CAUTION]
+>
+> Before starting the challenges, make sure to go through the step-by-step guide for [New Azure User Setup](challenges/ch00/README.md).
+
 ## Challenges
 
 Focus on implementing **at least the first 6 challenges today** as a minimum out of the 8 major challenges.
@@ -18,10 +23,6 @@ Focus on implementing **at least the first 6 challenges today** as a minimum o
 
 > [!TIP]
 > ***You can progress through Solution (step by step) at your own pace.***
-
-> [!CAUTION]
-> ### Pre-req. for challenges: Go through the step-by-step guide for [New Azure User Setup.](challenges/ch00/README.md)
-> 
 
 > [!IMPORTANT]
 > ### ch01: Prepare the infrastructure 
