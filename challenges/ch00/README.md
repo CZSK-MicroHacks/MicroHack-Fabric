@@ -1,4 +1,4 @@
-# Ch00: New Azure User Setup
+# Pre-req.: New Azure User Setup
 
 > [!NOTE]
 > 

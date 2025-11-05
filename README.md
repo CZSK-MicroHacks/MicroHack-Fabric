@@ -21,6 +21,8 @@ Focus on implementing **at least the first 6 challenges today** as a minimum o
 
 
 > [!IMPORTANT]
+> ### Pre-req.: New Azure User Setup
+> [Solution](challenges/ch00/README.md)
 > ### ch01: Prepare the infrastructure 
 > [Challenge](challenges/ch01/README.md) | [Solution](/solutions/ch01/ch01-solution.md)
 > ### ch02: Ingest *raw* data
