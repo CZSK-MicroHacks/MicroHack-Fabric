@@ -37,7 +37,7 @@ If desired, you can fix the shortcut names (by clicking the PEN icon and renamin
 
 ### Transform silver layer into golden using the Spark Notebook
 
-The same way as in previous challenge, import the enclosed notebook [**Transform silver to gold - solution.ipynb**](solutions\ch05\Transform%20silver%20to%20gold%20-%20solution.ipynb).
+The same way as in previous challenge, import the enclosed notebook [**Transform silver to gold - solution.ipynb**](Transform%20silver%20to%20gold%20-%20solution.ipynb).
 
 ![](../../images/ch05/ch05-image-c105-i55pmg1.png)
 
