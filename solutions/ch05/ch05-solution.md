@@ -12,7 +12,7 @@
 
 The souce of this data is previously used Azure Data Lake Gen2 connection (so it is very likely you will not have to define the connection once more). 
 
-![](../../images/ch05/ch05-image-c305-i58pmg5.png)
+![](../../images/ch05/ch05-image-c205-i54pmg1.png)
 
 ![](../../images/ch05/ch05-image-c305-i59pmg5.png)
 
