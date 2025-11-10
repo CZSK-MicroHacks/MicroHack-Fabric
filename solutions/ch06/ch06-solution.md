@@ -91,15 +91,16 @@ Exactly according to instructions, call the right notebook (*Transform Bronze to
 
 ![](../../images/ch06/ch06-image-c1106-i56amg5.png)
 
-Pipeline Expression Builder pops out (so you don't have to write the code yourself) - here, you can click the general parameter defined previously. This builds the code ```@pipeline().parameters.Year```
+Pipeline Expression Builder pops out (so you don't have to write the code yourself) - here, you can click the general parameter defined previously. This builds the code ```@item()```
 
-![](../../images/ch06/ch06-image-c1106-i59amg5.png)
+![](../../images/ch06/ch06-image-c206-i16pmg1.png)
 
-Now go back to the the **ForEach** item settings and make sure what and how is looped = Sequentially and choose the defined "internal" ForEach Activity as the dynamic item to be called.
+Now go back to the the **ForEach** item settings and make sure what and how is looped = Sequentially and choose the defined "internal" ForEach Activity as the dynamic item to be called. This portion should produce the code ```@pipeline().parameters.Year```
 
 ![](../../images/ch06/ch06-image-c1206-i7pmg5.png)
 
-![](../../images/ch06/ch06-image-c1206-i8pmg5.png)
+![](../../images/ch06/ch06-image-c1106-i59amg5.png)
+
 
 7) Finally, add the last part - upon completion of the ForEach item, call the last notebook *Transform Silver to Gold*. At this level, you should easily finish this step on your own.
 
