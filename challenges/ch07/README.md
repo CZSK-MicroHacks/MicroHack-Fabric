@@ -2,7 +2,8 @@
 > [!NOTE]
 > 
 > Back to [Readme](/README.md)
-
+¨
+## Goal
 In this challenge, you will focus on processing unstructured data from real user reviews of locations in New York.
 
 With Microsoft Fabric, all business professionals—data engineers, data scientists, developers, and analysts—can gain more value from their data through Generative AI.
