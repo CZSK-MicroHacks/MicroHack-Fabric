@@ -10,7 +10,7 @@ In this challenge, you will prepare the Microsoft Fabric environment for the upc
 
 ## Actions
 
-- Deploy MS Fabric Capacity into pre-defined Resource Group "**rg-MicroHackFabric**" and **default Region (West US 3)**
+- Deploy MS Fabric Capacity into pre-defined Resource Group "**rg-MicroHackFabricCapacities**" and **default Region (West US 3)**
 	- Name: **yoursurname0fabric** with **size F4** 
 	- e.g. novak0fabric
 - Create Workspace in MS Fabric: **YourSurname NY Taxi Analysis [DEV]**

@@ -22,8 +22,8 @@ By the end of the challenge, you will have completed the first step, the bronze 
 
 - Create Pipeline: Ingest Green Taxi 2015
 	- With Copy Activity to Ingest Data:
-		- Source: Azure Blob Storage: https://stfabricmicrohacksw.blob.core.windows.net/ 
-			- Authentication kind Shared Access Signature (SAS): sv=2024-11-04&ss=b&srt=sco&sp=rlfx&se=2025-11-30T00:36:28Z&st=2025-10-06T15:21:28Z&spr=https&sig=AukZMGIOO%2BdjC%2BAbRmaNpGsg8jagziY0WimASjtiTZw%3D
+		- Source: Azure Blob Storage: https://stmsfabricmicrohacksw.blob.core.windows.net/
+			- Authentication kind: **Organizational account**
 			- File path: 
 				- Container: **taxidata**
 				- File: **green_tripdata_2015-01.parquet**
@@ -33,8 +33,8 @@ By the end of the challenge, you will have completed the first step, the bronze 
 			- Format: **Binary**
     
 - Create Shortcut in your Lakehouse into **Files > Landing** to **2023** Folder in Azure Data Lake Gen2: 
-	- https://adlstfabricmicrohacksw.dfs.core.windows.net/ 
-		- Authentication kind Shared Access Signature (SAS): sv=2024-11-04&ss=b&srt=sco&sp=rl&se=2025-11-30T00:38:39Z&st=2025-10-06T15:23:39Z&spr=https&sig=HCus0m0ysS3EU4MlOrcmdmc5KNYNNHxhUS1WvkR1hRc%3D
+	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
+		- Authentication kind: **Organizational account**
 
 ## Success Criteria
 

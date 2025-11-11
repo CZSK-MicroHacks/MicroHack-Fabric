@@ -14,8 +14,9 @@ By the end of the challenge, you will have completed the implementation of the [
 ## Actions
 
 - Create the 3rd lakehouse: **goldcurated**
-- Create Shortcut in your Lakehouse into **Tables** to pre-created delta tables:  **dimLocations, dimpaymenttype, dimratecode, dimvendor** in Azure Data Lake Gen2: https://adlstfabricmicrohacksw.dfs.core.windows.net/
-	- SAS: sv=2024-11-04&ss=b&srt=sco&sp=rl&se=2025-11-30T00:38:39Z&st=2025-10-06T15:23:39Z&spr=https&sig=HCus0m0ysS3EU4MlOrcmdmc5KNYNNHxhUS1WvkR1hRc%3D
+- Create Shortcut in your Lakehouse into **Tables** area to pre-created delta tables:  **dimLocations, dimpaymenttype, dimratecode, dimvendor** in Azure Data Lake Gen2: 
+	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
+		- Authentication kind: **Organizational account**
 - Import [**challenges/ch05/Transform silver to gold - Ch05.ipynb**](/challenges/ch05/Transform%20silver%20to%20gold%20-%20Ch05.ipynb) to you workspace and try to complete all Goals / Actions mentioned in notebook
 	- Remove origin lakehouses from Notebook and Add/attach your **silvercleansed** (as default) lakehouse and **goldcurated** lakehouse
 - Build Semantics model **GreenTaxi** based on 4 dimensions and 2 facts tables with Avg. function and relations
