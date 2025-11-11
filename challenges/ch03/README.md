@@ -31,8 +31,11 @@ In this challenge, you will load three files into three Delta tables in the [bro
 	- Create a new Dataflow Gen2: **Load Green Taxi Discounts**
 	- Source: **bronzerawdata** lakehouse
 		- File path: **Files > Landing > 2023 > NYC-Taxi-Discounts-Per-Day.csv**
+	- Unpivot Columns to Rows
+		- Final table structure will be:
+			- **VendorID (Whole number) | date (Text) | discount (Whole number)**
 	- Destination: **bronzerawdata** lakehouse
-	- Table: greenDiscountsPerDay
+	- Table: **greenDiscountsPerDay**
 
 - **Data Engineer: Notebook**
 	- Create a new Notebook: **Load Green Taxi 2023** or Import [**challenges/ch03/Load Green Taxi 2023 - Ch03.ipynb**](/challenges/ch03/Load%20Green%20Taxi%202023%20-%20Ch03.ipynb)

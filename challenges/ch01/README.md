@@ -25,10 +25,7 @@ In this challenge, you will prepare the Microsoft Fabric environment for the upc
 - Workspace is ready to solve your workloads.
 - The 1st Lakehouse and SQL analytics endpoint is deployed and you can connect
 
-
-
 ![Picture](/images/ch01/ch01-success1.png)
-
 
 ## Solution - Spoilerwarning
 > Solutions steps for [Challenge 01](/solutions/ch01/ch01-solution.md)
