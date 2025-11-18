@@ -32,7 +32,7 @@ By the end of the challenge, you will have completed the first step, the bronze 
 			- File path directory: **Landing/GreenTaxi2015**
 			- Format: **Binary**
     
-- Create Shortcut in your Lakehouse into **Files > Landing** to **2023** Folder in Azure Data Lake Gen2: 
+- Create Shortcut in your Lakehouse into **Files > Landing** to **2023** Container from Azure Data Lake Gen2: 
 	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
 		- Authentication kind: **Organizational account**
 
