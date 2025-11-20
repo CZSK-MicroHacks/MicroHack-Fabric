@@ -27,7 +27,7 @@ The pipeline canvas is shown and Copy data activity is added onto it. On this ca
 |:--------------|:-------------|:----------|
 | **Source** | Type | Azure Blob Storage |
 | | URL | `https://stfabricmicrohacksw.blob.core.windows.net/` |
-| | SAS Token | `sv=2024-11-04&ss=b&srt=sco&sp=rlfx&se=2025-11-30T00:36:28Z&st=2025-10-06T15:21:28Z&spr=https&sig=AukZMGIOO%2BdjC%2BAbRmaNpGsg8jagziY0WimASjtiTZw%3D` |
+| | Auth. kind | Sign-in with your current account |
 | | Format | **Binary** |
 | **Destination** | Type | Lakehouse |
 | | Name | **bronzerawdata** |
@@ -38,7 +38,7 @@ The pipeline canvas is shown and Copy data activity is added onto it. On this ca
 
 ![](../../images/ch02/ch02-image-c502-i23pmg4.png)
 
-![](../../images/ch02/ch02-image-c502-i24pmg4.png)
+![](../../images/ch02/ch02-image-c102-i55pmg4.png)
 
 ![](../../images/ch02/ch02-image-c502-i26pmg4.png)
 
@@ -66,12 +66,12 @@ So locate your lakehouse, where the Shortcut should appear:
 |:-------------|:----------|
 | **Service Type** | Azure Data Lake Gen2 |
 | **URL** | `https://adlstfabricmicrohacksw.dfs.core.windows.net/` |
-| **Authentication** | SAS Token |
-| **SAS Token** | `sv=2024-11-04&ss=b&srt=sco&sp=rl&se=2025-11-30T00:38:39Z&st=2025-10-06T15:23:39Z&spr=https&sig=HCus0m0ysS3EU4MlOrcmdmc5KNYNNHxhUS1WvkR1hRc%3D` |
+| **Authentication kind** | Organizational account |
+
 
 ![](../../images/ch02/ch02-image-c502-i33pmg4.png)
 
-![](../../images/ch02/ch02-image-c502-i38pmg4.png)
+![](../../images/ch02/ch02-image-c102-i59pmg4.png)
 
 ![](../../images/ch02/ch02-image-c502-i39pmg4.png)
 
