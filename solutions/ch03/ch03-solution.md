@@ -108,7 +108,7 @@ The result should look like in the picture below. Data types requested are chose
 
 Feel free to use Copilot or other AI assistant to help you write the code. Below, there is one version of the code which does the trick but we invite you to try on your own.
 
-You can import (suggested notebook with the solution)[Load%20Green%20Taxi%202023.ipynb] or use this alternative code (or create some of your own).
+You can import [suggested notebook with the solution](Load%20Green%20Taxi%202023.ipynb) or use this alternative code (or create some of your own).
 
 <details>
 <summary><i>Notebook parquet import code</i></summary>
