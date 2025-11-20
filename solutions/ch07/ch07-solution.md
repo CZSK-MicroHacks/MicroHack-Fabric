@@ -14,7 +14,8 @@ For the sake of simplicity, we will use the previously created and populated lak
 
 There are two options, (1) without Data Preparation tasks and (2) with Data Preparation tasks:
 
-**1. without Data Preparation tasks:**
+### ... without Data Preparation tasks
+
 1) Create Shortcut in your Lakehouse into **Tables** area to pre-created delta table:  **NY_places_customer_reviews_parsed** from Azure Data Lake Gen2 (Container: **reviews** ):
 	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
 		- Authentication kind: **Organizational account**
@@ -31,7 +32,7 @@ There are two options, (1) without Data Preparation tasks and (2) with Data Prep
 4) Now go carefully step by step through the notebook to understand, how to use the AI Functions functionality in data wrangling.
 
 
-**2. with Data Preparation tasks:**
+### ... with Data Preparation tasks
 1) Import the enclosed notebook [User reviews processing with LLM - AI Functions with DE - solution.ipynb](User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20with%20DE%20-%20solution.ipynb)
 
 ![](../../images/ch07/ch07-image-c207-i46pmg5.png)
