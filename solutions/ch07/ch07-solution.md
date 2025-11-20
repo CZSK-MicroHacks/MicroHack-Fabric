@@ -19,7 +19,7 @@ There are two options, (1) without Data Preparation tasks and (2) with Data Prep
 	- https://adlstmsfabricmicrohacksw.dfs.core.windows.net/ 
 		- Authentication kind: **Organizational account**
 
-2) Import [**challenges/ch07/User reviews processing with LLM - AI Functions - solution.ipynb**](/solutions/ch07/User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20-%20solution.ipynb) to your workspace.
+2) Import [**User reviews processing with LLM - AI Functions - solution.ipynb**](User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20-%20solution.ipynb) to your workspace.
 
 ![](../../images/ch07/ch07-image-c207-i46pmg5.png)
 
@@ -32,7 +32,7 @@ There are two options, (1) without Data Preparation tasks and (2) with Data Prep
 
 
 **2. with Data Preparation tasks:**
-1) Import the enclosed notebook [User reviews processing with LLM - AI Functions with DE - solution.ipynb](/solutions/ch07/User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20with%20DE%20-%20solution.ipynb)
+1) Import the enclosed notebook [User reviews processing with LLM - AI Functions with DE - solution.ipynb](User%20reviews%20processing%20with%20LLM%20-%20AI%20Functions%20with%20DE%20-%20solution.ipynb)
 
 ![](../../images/ch07/ch07-image-c207-i46pmg5.png)
 

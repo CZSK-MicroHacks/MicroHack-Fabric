@@ -21,7 +21,7 @@ If not stored, use these credentials to access the ADLS gen2:
 | **Item** | **Value** |
 |:---------|:----------|
 | **URL** | `https://adlstfabricmicrohacksw.dfs.core.windows.net/` |
-| **SAS Token** | `sv=2024-11-04&ss=b&srt=sco&sp=rl&se=2025-11-30T00:38:39Z&st=2025-10-06T15:23:39Z&spr=https&sig=HCus0m0ysS3EU4MlOrcmdmc5KNYNNHxhUS1WvkR1hRc%3D` |
+| **Auth. kind** | Organization account. |
 
 In my case, I have chosen the pre-configured connection:
 
