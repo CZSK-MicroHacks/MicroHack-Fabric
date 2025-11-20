@@ -13,7 +13,7 @@
 ### Create Workspace in MS Fabric: **YourSurname NY Taxi Analysis [DEV]**
 	- e.g. Novak NY Taxi Analysis [DEV]
 - go to Microsoft Fabric - https://app.fabric.microsoft.com/
-- sign in with your M365 account [XXXXXXX]
+- sign in with your M365 account ```UserXX@fabric.microhack.org```
 
 ![](../../images/ch01/ch01-image-c301-i29pmg2.png)
 
