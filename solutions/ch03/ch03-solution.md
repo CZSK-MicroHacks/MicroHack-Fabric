@@ -59,25 +59,36 @@ This time, you will try to use the Dataflow Gen2 tool to load the data.
 
 ![](../../images/ch03/ch03-image-c903-i46amg5.png)
 
-7) In this step you can transform the data source CSV, however we won't do it. Now, you have to add the destination, where the transformed data should be loaded. Add the Destination in the right bottom of the page and choose *Lakehouse*:
+7) When you have your data loaded, you can see the table is very wide so it would be convenient if we unpivotted it so it is better suited for analytics.
+
+Working with Data flows gen2 is similar to Excel power query functionality. To achieve the goal of this step, **mark VendorID** and use the option *Unpivot other columns* in the *Trasform* submenu.
+
+![](../../images/ch03/ch03-image-c203-i47pmg4.png)
+
+The result should look like in the picture below. Data types requested are chosen automatically and in this case are correct. However the *arror* shows where you can click and modify the data type if it's needed.
+
+![](../../images/ch03/ch03-image-c203-i49pmg4.png)
+
+
+8) In this step you can transform the data source CSV, however we won't do it. Now, you have to add the destination, where the transformed data should be loaded. Add the Destination in the right bottom of the page and choose *Lakehouse*:
 
 ![](../../images/ch03/ch03-image-c903-i49amg5.png)
 
-8) Confirm the current connection to lakehouse and define the placement and name for the target table, where the CSV data should be loaded:
+9) Confirm the current connection to lakehouse and define the placement and name for the target table, where the CSV data should be loaded:
 
 ![](../../images/ch03/ch03-image-c903-i51amg5.png)
 
-9) Even though the souce data contains column names, it is CSV and the system has not means how to preserve the table definition. To fix the column names, click on the "Use first row as header".
+10) Even though the souce data contains column names, it is CSV and the system has not means how to preserve the table definition. To fix the column names, click on the "Use first row as header".
 
 ![](../../images/ch03/ch03-image-c203-i43pmg5.png)
 
-10) The columns data types mapping can be left in this case to automatic - Save the settings.
+11) The columns data types mapping can be left in this case to automatic - Save the settings.
 
-11) When everything is ready, publish the dataflow:
+12) When everything is ready, publish the dataflow:
 
 ![](../../images/ch03/ch03-image-c903-i56amg5.png)
 
-12) It is important to understand that publishing the dataflow only stores the metadata and the flow itself has not been executed yet. In order to manually trigger the dataflow, you have to "Refresh" the dataflow from within the UI of the Dataflow Gen2 itself OR from the list in Workspace view OR you can schedule the automatic triggering from the Settings of the dataflow.
+13) It is important to understand that publishing the dataflow only stores the metadata and the flow itself has not been executed yet. In order to manually trigger the dataflow, you have to "Refresh" the dataflow from within the UI of the Dataflow Gen2 itself OR from the list in Workspace view OR you can schedule the automatic triggering from the Settings of the dataflow.
 
 ![](../../images/ch03/ch03-image-c1003-i9amg5.png)
 
@@ -97,7 +108,7 @@ This time, you will try to use the Dataflow Gen2 tool to load the data.
 
 Feel free to use Copilot or other AI assistant to help you write the code. Below, there is one version of the code which does the trick but we invite you to try on your own.
 
-You can import suggested notebook or use this alternative code (or create some of your own).
+You can import (suggested notebook with the solution)[Load%20Green%20Taxi%202023.ipynb] or use this alternative code (or create some of your own).
 
 <details>
 <summary><i>Notebook parquet import code</i></summary>
