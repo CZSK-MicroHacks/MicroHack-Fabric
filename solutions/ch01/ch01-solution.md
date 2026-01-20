@@ -7,7 +7,7 @@
 - using the wizard, create the capacity according to the picture below
 - place it within whatever region which suits your needs
 
-![](../../images/ch01/ch01-image-c301-i24pmg2.png)
+![](../../images/ch01/ch01-image-c201-i10pmg2.png)
 
 ---
 ### Create Workspace in MS Fabric: **YourSurname NY Taxi Analysis [DEV]**
