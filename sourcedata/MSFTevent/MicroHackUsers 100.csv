@@ -1,0 +1,32 @@
+﻿version:v1.0
+Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required
+MicroHack User101,User101@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User102,User102@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User103,User103@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User104,User104@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User105,User105@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User106,User106@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User107,User107@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User108,User108@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User109,User109@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User110,User110@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User111,User111@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User112,User112@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User113,User113@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User114,User114@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User115,User115@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User116,User116@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User117,User117@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User118,User118@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User119,User119@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User120,User120@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User121,User121@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User122,User122@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User123,User123@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User124,User124@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User125,User125@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User126,User126@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User127,User127@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User128,User128@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User129,User129@fabric.microhack.org,dummyHeslo1234,No
+MicroHack User130,User130@fabric.microhack.org,dummyHeslo1234,No
