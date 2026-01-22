@@ -50,7 +50,7 @@ In this challenge, you will load three files into three Delta tables in the [bro
 
 - Table **green201501** **exists** with **1 508 493** **rows**.
 - Table **green202301** **exists** with **68 211** **rows**.
-- Table **greenDiscountsPerDay** **exists** with **2 rows**.
+- Table **greenDiscountsPerDay** **exists** with **6 746 rows**.
 
 
 ![Picture](/images/ch03/ch03-success1.png)
